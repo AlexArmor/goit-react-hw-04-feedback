@@ -1,0 +1,18 @@
+.btnList {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 0;
+}
+
+.btn {
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  width: 100px;
+}
+
+.btn:hover {
+  background-color: rgb(87, 238, 255);
+}
